@@ -25,7 +25,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: simple-costs-manager-service
+  name: simple-costs-manager-service2
 spec:
   selector:
     app: simple-costs-manager
